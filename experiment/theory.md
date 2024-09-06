@@ -76,7 +76,7 @@ $$V_{o~(rms)} = \sqrt {3} V_{mp} \left[ \frac {1}{6} + \frac {\sqrt {3}}{8\pi} c
 
 <center>
 
-$$I_{o~(rms)} = \frac {V_{o~(rms)}}{R} = \frac {\sqrt {3} V_{mp}}{R} \left[\frac {1}{6} + \frac {\sqrt {3}}{8\pi} cos2\alpha \right]^{1/2}.......(4)$$
+$$I_{o ~ rms} = \frac {V_{o ~ rms}}{R} = \frac {\sqrt {3} V_{mp}}{R} \left[\frac {1}{6} + \frac {\sqrt {3}}{8\pi} cos2\alpha \right]^{1/2}.......(4)$$
 
 </center>
 
@@ -157,7 +157,7 @@ $$V_{o~(rms)} = \sqrt {3} V_{mp} \left[ \frac {1}{6} + \frac {\sqrt {3}}{8\pi} c
 
 <center>
 
-$$I_{o~(rms)} = \frac {V_{o~(rms)}}{R} = \frac {\sqrt {3} V_{mp}}{R} \left[\frac {1}{6} + \frac {\sqrt {3}}{8\pi} cos2\alpha \right]^{1/2}.......(12)$$
+$$I_{o ~ rms} = \frac {V_{o ~ rms}}{R} = \frac {\sqrt {3} V_{mp}}{R} \left[\frac {1}{6} + \frac {\sqrt {3}}{8\pi} cos2\alpha \right]^{1/2}.......(12)$$
 
 </center>
 
